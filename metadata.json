@@ -1,0 +1,8 @@
+{
+  "name": "Clara PitchCraft AI",
+  "description": "Enterprise presentation and pitch deck generator for Clara corporate cards, expense management, AP bill pay, and ERP integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
